@@ -1,0 +1,95 @@
+.footer{
+    color:red;
+}
+.profile-pic{
+    display: inline-block;
+    float:left;
+    width:300px;
+}
+.main-block{
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.main-title{
+    width:100%;
+}
+
+
+.period{
+
+}
+.period-title{
+    font-weight: bold;
+}
+.period-date{
+    font-weight: bold;
+    display:inline-block;
+    float:left;
+}
+.ab-title{
+    font-weight: bold;
+}
+
+.conf-title{
+    font-weight: bold;
+}
+
+.alte-title{
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+header{
+    margin:50px 50px 0 50px;
+    display: inline-block;
+}
+
+main{
+    margin:50px;
+}
+
+.section{
+    margin-top:50px;
+}
+
+.spacer{
+   width: 50px;
+}
+
+.inline-block{
+    display: inline-block;
+}
+.section-body{
+    text-align: center;
+}
+
+.period-text{
+    margin-left:50px;
+    display: inline-block;
+}
+
+.table{
+    margin-top:50px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: white;
+    color: black;
+    background-color:rgba(0,0,0,0);
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+h2,h1,p,a,h3,th,td,label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color:orange;
+    font-weight: bold;
+}
+
+
